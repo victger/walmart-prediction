@@ -1,0 +1,5 @@
+Problématique du projet : Quels sont les facteurs qui influencent les ventes et comment prédire leur impact ?
+
+1) Etudes des trois meilleurs features (distribution, relations, corrélations)
+
+2) Prédiction de Weekly_Sales (Mise en application des méthodes)
